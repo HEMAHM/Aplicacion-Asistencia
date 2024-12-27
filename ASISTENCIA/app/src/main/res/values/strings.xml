@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ASISTENCIA</string>
+    <string name="lblA1Titulo">Inicio de Sesión</string>
+    <string name="lblA2Nombre">Nombre</string>
+    <string name="lblA2Apellidop">Apellido Paterno</string>
+    <string name="lblA2Apellidom">Apellido Materno</string>
+    <string name="lblA1Usuario">Usuario</string>
+    <string name="lblA1Contrasena">Contraseña</string>
+    <string name="btnA1Ingresar">Ingresar</string>
+    <string name="btnA1Registrar">Registrar</string>
+    <string name="lblA2Texto">Registro de Usuario </string>
+    <string name="lblA3bienvenido">Bienvenid@!!!</string>
+    <string name="btnA3cerrar">Cerrar Sesión</string>
+    <string name="lblA3Texto2">Una vez confirmada su asistencia, no olvide cerrar sesión.</string>
+
+</resources>
